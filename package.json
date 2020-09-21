@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/QFults/compsci#readme",
   "dependencies": {
-    "benchmark": "^2.1.4"
+    "benchmark": "^2.1.4",
+    "shuffle-array": "^1.0.1"
   }
 }
